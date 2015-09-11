@@ -1,0 +1,83 @@
+id:	96
+catagory:	金融媒体/门户
+score:	0.9105572809
+
+id:	97
+catagory:	金融服务/综合服务
+score:	0.646446609407
+
+id:	70
+catagory:	租车
+score:	1.0
+
+id:	71
+catagory:	拼车
+score:	0.873508893593
+
+id:	72
+catagory:	代驾
+score:	1.0
+
+id:	43
+catagory:	金融数据
+score:	0.9105572809
+
+id:	45
+catagory:	P2P
+score:	0.649286441665
+
+id:	46
+catagory:	消费金融
+score:	0.873508893593
+
+id:	47
+catagory:	金融企业服务
+score:	0.873508893593
+
+id:	21
+catagory:	住房
+score:	1.0
+
+id:	22
+catagory:	家装
+score:	0.747017787187
+
+id:	23
+catagory:	汽车后服务
+score:	0.693813782152
+
+id:	24
+catagory:	出租/专车
+score:	0.75
+
+id:	25
+catagory:	汽车资讯
+score:	0.873508893593
+
+id:	91
+catagory:	记账工具
+score:	0.8211145618
+
+id:	92
+catagory:	贵金属/外汇/期货
+score:	0.8
+
+id:	93
+catagory:	理财
+score:	0.968377223398
+
+id:	94
+catagory:	虚拟货币/货币交易
+score:	0.638060778583
+
+id:	95
+catagory:	金融社交
+score:	1.0
+
+平局得分:	0.84364564844
+
+二级行业中不能找到某个分类：
+id: 44
+catagory: 众筹/投资
+id: 26
+catagory: 驾考/违章
